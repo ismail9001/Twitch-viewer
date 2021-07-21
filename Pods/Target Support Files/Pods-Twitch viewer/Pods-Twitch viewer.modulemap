@@ -1,0 +1,6 @@
+framework module Pods_Twitch_viewer {
+  umbrella header "Pods-Twitch viewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
